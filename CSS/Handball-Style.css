@@ -1,0 +1,53 @@
+    	#body{
+    		background-color: blue; 
+    		font-family: Arial;
+    		color: white;
+    		 }
+    	
+
+
+        #Paginaihf {
+    		  		color: white;
+    	}
+
+        #logo{ float: right;
+                position: absolute;
+                width: 140px;
+                left: 10%;
+
+             }
+    	
+    	#titulo { 
+    			text-align: center;
+                text-transform: uppercase;
+                font-family: arial black;
+                font-size: 80px;
+
+    			}
+    	#historia {
+    			font-variant: small-caps;
+    	}
+    	#reglamento {
+    		font-variant: small-caps;
+    	}
+    	#cancha {
+    		font-variant: small-caps;
+    	}
+    	.div { 
+    		width: 90%;
+    		text-align: justify;
+    		margin-left: auto;
+    		margin-right: auto;  
+    	}
+    	@media (max-device-width: 400px) {
+    		body {
+    			background-color: yellow;
+    		}
+    	}
+
+    	.imagen {
+                        width: 400px;
+    		    	}
+
+
+    </style>
